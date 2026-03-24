@@ -1,0 +1,152 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "general": "General Services",
+    "leisure": "Leisure Travel",
+    "incentive": "Incentive & Events",
+    "blogs": "Morocco in Numbers",
+    "get_inspired": "Get Inspired",
+    "contact": "Contact Us"
+  },
+  "hero": {
+    "title": "MOROCCO",
+    "subtitle": "Has never been closer to you!",
+    "quick_res": "Quick Reservation",
+    "fullname": "Full Name",
+    "email": "Email Address",
+    "btn_reserve": "Reserve Now"
+  },
+  "about": {
+    "title": "Welcome to Shems Incoming Morocco",
+    "text1": "We are your premier Destination Management Company (DMC) operating across Morocco, specializing in crafting unforgettable, tailor-made experiences. With local expertise and a passion for perfection, we turn your Moroccan dreams into reality.",
+    "btn": "Learn More About Us",
+    "culture_title": "Rich Cultural Heritage",
+    "culture_desc": "Immerse yourself in a vibrant tapestry of history, art, and tradition that has evolved over centuries. Our curated cultural tours bring the magic of ancient medinas and majestic palaces to life.",
+    "nature_title": "Breathtaking Landscapes",
+    "nature_desc": "From the sweeping Sahara dunes to the snow-capped Atlas Mountains, explore nature in its purest form. We offer exclusive access to hidden oases and picturesque valleys."
+  },
+  "stats": {
+    "overnight": "Overnight Stays",
+    "arrivals": "Tourist Arrivals",
+    "events": "Major Events Hosted",
+    "awards": "Industry Awards"
+  },
+  "services": {
+    "title": "Our Main Services",
+    "subtitle": "Discover the core offerings that make us the leading DMC in Morocco.",
+    "btn_all": "View All Services",
+    "split_title": "Explore Our Expertise",
+    "tab_leisure": "LEISURE TRAVEL",
+    "tab_incentive": "INCENTIVE AND EVENTS"
+  },
+  "blogs": {
+    "title": "Morocco in Numbers",
+    "btn_read": "Read More"
+  },
+  "why": {
+    "title": "Why Morocco?"
+  },
+  "team": {
+    "title": "Our Team"
+  },
+  "partners": {
+    "title": "Where to meet us"
+  },
+  "testimonials": {
+    "title": "What our clients say"
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "desc": "Ready to start planning your Moroccan experience? Our team is here to assist you.",
+    "phone": "Phone",
+    "email": "Email",
+    "address": "Address",
+    "form_title": "Send a Message",
+    "fullname": "Full Name",
+    "email_address": "Email Address",
+    "phone_opt": "Phone Number (Optional)",
+    "hear_about": "How did you hear about us?",
+    "subject": "Subject",
+    "message": "Your Message",
+    "btn_send": "Send Message"
+  },
+  "footer": {
+    "tagline": "Your premier DMC partner for exceptional Moroccan experiences.",
+    "quick_links": "Quick Links",
+    "contact": "Contact",
+    "rights": "All rights reserved. Designed for excellence."
+  },
+  "detail": {
+    "not_found": "Item not found",
+    "back": "Back Home",
+    "about_service": "About this Service",
+    "request_service": "Request this Service",
+    "fill_form": "Fill out the form below to tailor this experience to your needs.",
+    "fullname": "Full Name",
+    "email": "Email Address",
+    "date": "Date",
+    "reqs": "Any specific requirements?",
+    "btn_send": "Send Request",
+    "morocco_numbers": "Morocco in Numbers",
+    "contact_more": "Contact Us to Learn More",
+    "text1": "Morocco is incredibly diverse. This fascinating aspect of our country draws visitors from around the world. We highly recommend exploring this unique attribute to truly appreciate the depth of Moroccan history, culture, and nature. Shems Incoming Morocco can organize custom itineraries highlighting exactly these kinds of wonders!",
+    "text2": "With our expertise, our 24/7 dedicated support team, and our vast network of local experts, discovering these numbers and what they mean in reality is easier than ever before. Let us seamlessly integrate these highlights into your journey."
+  },
+  "get_inspired": {
+    "title": "Get Inspired",
+    "subtitle": "Discover our most popular itineraries and start planning your dream Moroccan adventure today.",
+    "view_plan": "View Itinerary",
+    "footer_text": "Bon Voyage!",
+    "eyebrow": "Sample Itineraries",
+    "sample_itinerary": "Sample Itinerary",
+    "reserve_btn": "Reserve This Itinerary",
+    "plan5": {
+      "title": "5 Nights Sample Itinerary",
+      "duration": "5 Nights",
+      "highlight": "Fes, Rabat & Marrakech — the Imperial heart of Morocco.",
+      "days": {
+        "1": { "location": "Fes", "desc": "Guided tour of Volubilis / Guided tour of monuments in Fes" },
+        "2": { "location": "Fes", "desc": "Guided Tour of Medina and souks / Tasting tour of Fes" },
+        "3": { "location": "Rabat", "desc": "Drive to Rabat / Guided tour of the medina" },
+        "4": { "location": "Marrakesh", "desc": "Drive to Marrakech / Nighttime guided visit of the emblematic Jemaa Lefna Square" },
+        "5": { "location": "Marrakesh", "desc": "Guided tour of Marrakech / Tagine cooking class" },
+        "6": { "location": "Departure", "desc": "Departure" }
+      }
+    },
+    "plan8": {
+      "title": "8 Nights Sample Itinerary",
+      "duration": "8 Nights",
+      "highlight": "Desert, coast & imperial cities — a perfect Moroccan blend.",
+      "days": {
+        "1": { "location": "Fes", "desc": "Guided tour of Volubilis / Guided tour of monuments in Fes" },
+        "2": { "location": "Fes", "desc": "Guided Tour of Medina and souks / Tasting tour of Fes" },
+        "3": { "location": "Rabat", "desc": "Drive to Rabat / Guided tour of the medina" },
+        "4": { "location": "Marrakesh", "desc": "Drive to Marrakech / Nighttime guided visit of the emblematic Jemaa Lefna Square" },
+        "5": { "location": "Marrakesh", "desc": "Guided tour of Marrakech / Tagine cooking class" },
+        "6": { "location": "Marrakesh", "desc": "Hot air balloon ride / Desert experience in the Agafay desert with dinner and camel ride" },
+        "7": { "location": "Essaouira", "desc": "Lunch and wine tasting on the way / Guided tour of the coastal city" },
+        "8": { "location": "Departure", "desc": "Departure" }
+      }
+    },
+    "plan10": {
+      "title": "10 Nights Sample Itinerary",
+      "duration": "10 Nights",
+      "highlight": "The grand tour — Sahara, mountains, coast & ancient medinas.",
+      "days": {
+        "1": { "location": "Tangier & Chefchaouen", "desc": "Arrival in Tangier / Drive to Chefchaouen / Evening stroll through the blue-washed streets" },
+        "2": { "location": "Chefchaouen & Fes", "desc": "Morning hike to the Spanish Mosque / Drive to Fes via the Roman ruins of Volubilis" },
+        "3": { "location": "Fes", "desc": "Guided tour of the monuments and the 9,000 alleys of the Fes Medina" },
+        "4": { "location": "Fes", "desc": "Tasting tour of Fes food markets / Afternoon traditional pottery and zellige workshop" },
+        "5": { "location": "Merzouga (Sahara Desert)", "desc": "Long drive through the Middle Atlas mountains / Sunset camel trek into the Erg Chebbi dunes" },
+        "6": { "location": "Merzouga & Skoura", "desc": "Sunrise over the dunes / Visit to the Khemliya village / Drive through the Todra Gorge to the Skoura Oasis" },
+        "7": { "location": "Ouarzazate & Marrakesh", "desc": "Visit the UNESCO site of Ait Ben Haddou / Drive across the Tizi n'Tichka pass to Marrakech" },
+        "8": { "location": "Marrakesh", "desc": "Guided tour of Bahia Palace and Saadian Tombs / Nighttime visit to Jemaa el-Fnaa" },
+        "9": { "location": "Marrakesh", "desc": "Hot air balloon ride / Tagine cooking class in a local riad" },
+        "10": { "location": "Essaouira", "desc": "Day trip to the coast / Lunch and wine tasting / Guided tour of the Mogador ramparts" },
+        "11": { "location": "Departure", "desc": "Departure" }
+      }
+    }
+  }
+}

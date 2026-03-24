@@ -1,0 +1,152 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À Propos",
+    "services": "Services",
+    "general": "Services Généraux",
+    "leisure": "Voyages de Loisirs",
+    "incentive": "Incentives & Événements",
+    "blogs": "Le Maroc en Chiffres",
+    "get_inspired": "S'inspirer",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "MAROC",
+    "subtitle": "N'a jamais été aussi proche de vous !",
+    "quick_res": "Réservation Rapide",
+    "fullname": "Nom Complet",
+    "email": "Adresse E-mail",
+    "btn_reserve": "Réserver"
+  },
+  "about": {
+    "title": "Bienvenue chez Shems Incoming Morocco",
+    "text1": "Nous sommes votre agence réceptive de référence (DMC) opérant à travers le Maroc, spécialisée dans la création d'expériences sur mesure inoubliables. Avec notre expertise locale et notre passion pour la perfection, nous transformons vos rêves marocains en réalité.",
+    "btn": "En Savoir Plus",
+    "culture_title": "Riche Héritage Culturel",
+    "culture_desc": "Plongez dans un mélange vibrant d'histoire, d'art et de tradition qui a évolué au fil des siècles. Nos circuits culturels redonnent vie à la magie des anciennes médinas et des palais majestueux.",
+    "nature_title": "Paysages Époustouflants",
+    "nature_desc": "Des vastes dunes du Sahara aux montagnes enneigées de l'Atlas, explorez la nature à l'état pur. Nous offrons un accès exclusif à des oasis cachées et des vallées pittoresques."
+  },
+  "stats": {
+    "overnight": "Nuitées",
+    "arrivals": "Arrivées Touristiques",
+    "events": "Événements Majeurs",
+    "awards": "Prix de l'Industrie"
+  },
+  "services": {
+    "title": "Nos Services Principaux",
+    "subtitle": "Découvrez les offres fondamentales qui font de nous le DMC leader au Maroc.",
+    "btn_all": "Voir Tous Les Services",
+    "split_title": "Explorez Notre Expertise",
+    "tab_leisure": "VOYAGES DE LOISIRS",
+    "tab_incentive": "INCENTIVES ET ÉVÉNEMENTS"
+  },
+  "blogs": {
+    "title": "Le Maroc en Chiffres",
+    "btn_read": "Lire la suite"
+  },
+  "why": {
+    "title": "Pourquoi le Maroc ?"
+  },
+  "team": {
+    "title": "Notre Équipe"
+  },
+  "partners": {
+    "title": "Où nous rencontrer"
+  },
+  "testimonials": {
+    "title": "Ce que disent nos clients"
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "desc": "Prêt à planifier votre expérience marocaine ? Notre équipe est là pour vous aider.",
+    "phone": "Téléphone",
+    "email": "E-mail",
+    "address": "Adresse",
+    "form_title": "Envoyer un Message",
+    "fullname": "Nom Complet",
+    "email_address": "Adresse E-mail",
+    "phone_opt": "Numéro de Téléphone (Optionnel)",
+    "hear_about": "Comment avez-vous entendu parler de nous ?",
+    "subject": "Sujet",
+    "message": "Votre Message",
+    "btn_send": "Envoyer le Message"
+  },
+  "footer": {
+    "tagline": "Votre partenaire DMC de référence pour des expériences marocaines exceptionnelles.",
+    "quick_links": "Liens Rapides",
+    "contact": "Contact",
+    "rights": "Tous droits réservés. Conçu pour l'excellence."
+  },
+  "detail": {
+    "not_found": "Élément introuvable",
+    "back": "Retour",
+    "about_service": "À propos de ce service",
+    "request_service": "Demander ce service",
+    "fill_form": "Remplissez le formulaire ci-dessous pour personnaliser cette expérience.",
+    "fullname": "Nom Complet",
+    "email": "Adresse E-mail",
+    "date": "Date",
+    "reqs": "Des besoins spécifiques ?",
+    "btn_send": "Envoyer la Demande",
+    "morocco_numbers": "Le Maroc en Chiffres",
+    "contact_more": "Contactez-nous pour en savoir plus",
+    "text1": "Le Maroc est incroyablement diversifié. Cet aspect fascinant attire des visiteurs du monde entier. Nous recommandons d'explorer cet atout unique pour vraiment apprécier la profondeur de l'histoire, la culture et la nature marocaines. Shems Incoming Morocco peut organiser des itinéraires personnalisés mettant en valeur ces merveilles !",
+    "text2": "Grâce à notre expertise, notre équipe disponible 24/7 et notre vaste réseau d'experts locaux, découvrir ces chiffres en vrai est plus facile que jamais. Laissez-nous intégrer ces éléments essentiels à votre voyage."
+  },
+  "get_inspired": {
+    "title": "Laissez-vous Inspirer",
+    "subtitle": "Découvrez nos itinéraires les plus populaires et commencez à planifier votre aventure marocaine de rêve dès aujourd'hui.",
+    "view_plan": "Voir l'itinéraire",
+    "footer_text": "Bon Voyage !",
+    "eyebrow": "Exemples d'itinéraires",
+    "sample_itinerary": "Exemple d'itinéraire",
+    "reserve_btn": "Réserver cet itinéraire",
+    "plan5": {
+      "title": "Exemple d'itinéraire de 5 nuits",
+      "duration": "5 Nuits",
+      "highlight": "Fès, Rabat & Marrakech — le cœur impérial du Maroc.",
+      "days": {
+        "1": { "location": "Fès", "desc": "Visite guidée de Volubilis / Visite guidée des monuments à Fès" },
+        "2": { "location": "Fès", "desc": "Visite guidée de la médina et des souks / Visite dégustation de Fès" },
+        "3": { "location": "Rabat", "desc": "Route vers Rabat / Visite guidée de la médina" },
+        "4": { "location": "Marrakech", "desc": "Route vers Marrakech / Visite guidée nocturne de l'emblématique place Jemaa el-Fna" },
+        "5": { "location": "Marrakech", "desc": "Visite guidée de Marrakech / Cours de cuisine tajine" },
+        "6": { "location": "Départ", "desc": "Départ" }
+      }
+    },
+    "plan8": {
+      "title": "Exemple d'itinéraire de 8 nuits",
+      "duration": "8 Nuits",
+      "highlight": "Désert, côte & villes impériales — un mélange marocain parfait.",
+      "days": {
+        "1": { "location": "Fès", "desc": "Visite guidée de Volubilis / Visite guidée des monuments à Fès" },
+        "2": { "location": "Fès", "desc": "Visite guidée de la médina et des souks / Visite dégustation de Fès" },
+        "3": { "location": "Rabat", "desc": "Route vers Rabat / Visite guidée de la médina" },
+        "4": { "location": "Marrakech", "desc": "Route vers Marrakech / Visite guidée nocturne de l'emblématique place Jemaa el-Fna" },
+        "5": { "location": "Marrakech", "desc": "Visite guidée de Marrakech / Cours de cuisine tajine" },
+        "6": { "location": "Marrakech", "desc": "Vol en montgolfière / Expérience dans le désert d'Agafay avec dîner et balade à dos de chameau" },
+        "7": { "location": "Essaouira", "desc": "Déjeuner et dégustation de vin en route / Visite guidée de la ville côtière" },
+        "8": { "location": "Départ", "desc": "Départ" }
+      }
+    },
+    "plan10": {
+      "title": "Exemple d'itinéraire de 10 nuits",
+      "duration": "10 Nuits",
+      "highlight": "Le grand tour — Sahara, montagnes, côte & médinas anciennes.",
+      "days": {
+        "1": { "location": "Tanger & Chefchaouen", "desc": "Arrivée à Tanger / Route vers Chefchaouen / Balade en soirée à travers les rues bleues" },
+        "2": { "location": "Chefchaouen & Fès", "desc": "Randonnée matinale vers la Mosquée Espagnole / Route vers Fès via les ruines romaines de Volubilis" },
+        "3": { "location": "Fès", "desc": "Visite guidée des monuments et des 9 000 ruelles de la médina de Fès" },
+        "4": { "location": "Fès", "desc": "Visite dégustation des marchés alimentaires de Fès / Atelier traditionnel de poterie et de zellige l'après-midi" },
+        "5": { "location": "Merzouga (Désert du Sahara)", "desc": "Long trajet à travers les montagnes du Moyen Atlas / Randonnée à dos de chameau au coucher du soleil dans les dunes de l'Erg Chebbi" },
+        "6": { "location": "Merzouga & Skoura", "desc": "Lever de soleil sur les dunes / Visite du village de Khemliya / Route à travers les gorges de Todra vers l'oasis de Skoura" },
+        "7": { "location": "Ouarzazate & Marrakech", "desc": "Visite du site classé à l'UNESCO d'Aït-ben-Haddou / Route par le col du Tizi n'Tichka vers Marrakech" },
+        "8": { "location": "Marrakech", "desc": "Visite guidée du Palais Bahia et des Tombeaux Saadiens / Visite nocturne de Jemaa el-Fna" },
+        "9": { "location": "Marrakech", "desc": "Vol en montgolfière / Cours de cuisine tajine dans un riad local" },
+        "10": { "location": "Essaouira", "desc": "Excursion d'une journée sur la côte / Déjeuner et dégustation de vin / Visite guidée des remparts de Mogador" },
+        "11": { "location": "Départ", "desc": "Départ" }
+      }
+    }
+  }
+}

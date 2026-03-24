@@ -1,0 +1,48 @@
+{
+  "leisure": [
+    {
+      "id": "circuits",
+      "title": "Circuits",
+      "subtitle": "We make your wishes come true!",
+      "image": "/assets/images/circuit.jpg"
+    },
+    {
+      "id": "concierge",
+      "title": "Concierge Services",
+      "subtitle": "We provide personalized concierge services",
+      "image": "/assets/images/cat_leisure_1.jpg"
+    },
+    {
+      "id": "experiences",
+      "title": "Experiences",
+      "subtitle": "We promise to curate authentic and immersive experiences",
+      "image": "/assets/images/cat_leisure_2.jpg"
+    },
+    {
+      "id": "transportation",
+      "title": "Transportation",
+      "subtitle": "Our team facilitates transportation arrangements for you",
+      "image": "/assets/images/cat_leisure_3.jpg"
+    }
+  ],
+  "incentive": [
+    {
+      "id": "event-planning",
+      "title": "Event Planning and Management",
+      "subtitle": "Flawless execution of your corporate events",
+      "image": "/assets/images/cat_incentive_0.jpg"
+    },
+    {
+      "id": "travel-logistics",
+      "title": "Travel Logistics",
+      "subtitle": "Seamless coordination for your group travel",
+      "image": "/assets/images/cat_incentive_1.jpg"
+    },
+    {
+      "id": "program-development",
+      "title": "Program Development",
+      "subtitle": "Innovative programs designed for team inspiration",
+      "image": "/assets/images/cat_incentive_2.jpg"
+    }
+  ]
+}

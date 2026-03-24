@@ -1,0 +1,98 @@
+[
+  {
+    "id": "welcome-kit",
+    "title": "Kit de Bienvenue Personnalisé",
+    "subtitle": "Un accueil marocain chaleureux pour commencer votre voyage.",
+    "description": "Dès votre arrivée, recevez un kit de bienvenue soigneusement sélectionné et adapté à vos préférences pour lancer votre aventure.",
+    "image": "https://images.unsplash.com/photo-1489749798305-4fea3ae63d43?q=80&w=1167&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "detailed_content": [
+      "Experience the pinnacle of Moroccan hospitality from the very moment you arrive. Our customizable welcome kit is designed to ensure you feel at home in a new country. It includes essential information, local delicacies, and personalized touches tailored specifically to your preferences.",
+      "We believe that the journey is just as important as the destination. This kit sets the perfect tone for your adventure, equipping you with practical tools such as local SIM cards, curated city maps, and a list of our handpicked recommendations so you can navigate with confidence.",
+      "Whether you are here for a romantic getaway, a family vacation, or a corporate retreat, our kit seamlessly blends luxury with local charm. Start your Moroccan journey in comfort, knowing that every detail has been thoughtfully prepared by our dedicated team."
+    ]
+  },
+  {
+    "id": "transportation",
+    "title": "Transport avec Chauffeurs Professionnels",
+    "subtitle": "Voyagez en tout confort et sécurité à travers le pays.",
+    "description": "Des véhicules fiables, climatisés et des chauffeurs locaux experts garantissent un trajet en toute sérénité vers chaque destination.",
+    "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=800",
+    "detailed_content": [
+      "Experience the pinnacle of Moroccan hospitality from the very moment you arrive. Our customizable welcome kit is designed to ensure you feel at home in a new country. It includes essential information, local delicacies, and personalized touches tailored specifically to your preferences.",
+      "We believe that the journey is just as important as the destination. This kit sets the perfect tone for your adventure, equipping you with practical tools such as local SIM cards, curated city maps, and a list of our handpicked recommendations so you can navigate with confidence.",
+      "Whether you are here for a romantic getaway, a family vacation, or a corporate retreat, our kit seamlessly blends luxury with local charm. Start your Moroccan journey in comfort, knowing that every detail has been thoughtfully prepared by our dedicated team."
+    ]
+  },
+  {
+    "id": "local-guides",
+    "title": "Guides Locaux pour des Expériences Immersives",
+    "subtitle": "Découvrez le vrai Maroc avec ceux qui le connaissent le mieux.",
+    "description": "Nos guides certifiés partagent la riche histoire, la culture et les joyaux cachés qui font la singularité du Maroc.",
+    "image": "https://images.unsplash.com/photo-1539650116574-8efeb43e2750?auto=format&fit=crop&q=80&w=800",
+    "detailed_content": [
+      "Experience the pinnacle of Moroccan hospitality from the very moment you arrive. Our customizable welcome kit is designed to ensure you feel at home in a new country. It includes essential information, local delicacies, and personalized touches tailored specifically to your preferences.",
+      "We believe that the journey is just as important as the destination. This kit sets the perfect tone for your adventure, equipping you with practical tools such as local SIM cards, curated city maps, and a list of our handpicked recommendations so you can navigate with confidence.",
+      "Whether you are here for a romantic getaway, a family vacation, or a corporate retreat, our kit seamlessly blends luxury with local charm. Start your Moroccan journey in comfort, knowing that every detail has been thoughtfully prepared by our dedicated team."
+    ]
+  },
+  {
+    "id": "flights",
+    "title": "Vols Internationaux et Nationaux",
+    "subtitle": "Arrangements de voyage sans effort (Sur demande).",
+    "description": "Nous facilitons toutes vos réservations de vols pour que votre arrivée et votre départ soient fluides.",
+    "image": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&q=80&w=800",
+    "detailed_content": [
+      "Experience the pinnacle of Moroccan hospitality from the very moment you arrive. Our customizable welcome kit is designed to ensure you feel at home in a new country. It includes essential information, local delicacies, and personalized touches tailored specifically to your preferences.",
+      "We believe that the journey is just as important as the destination. This kit sets the perfect tone for your adventure, equipping you with practical tools such as local SIM cards, curated city maps, and a list of our handpicked recommendations so you can navigate with confidence.",
+      "Whether you are here for a romantic getaway, a family vacation, or a corporate retreat, our kit seamlessly blends luxury with local charm. Start your Moroccan journey in comfort, knowing that every detail has been thoughtfully prepared by our dedicated team."
+    ]
+  },
+  {
+    "id": "accommodations",
+    "title": "Hébergements Uniques",
+    "subtitle": "Des riads traditionnels aux hôtels de luxe en passant par les camps dans le désert.",
+    "description": "Séjournez dans certains des établissements les plus spectaculaires et authentiques soigneusement sélectionnés pour vous.",
+    "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&q=80&w=800",
+    "detailed_content": [
+      "Experience the pinnacle of Moroccan hospitality from the very moment you arrive. Our customizable welcome kit is designed to ensure you feel at home in a new country. It includes essential information, local delicacies, and personalized touches tailored specifically to your preferences.",
+      "We believe that the journey is just as important as the destination. This kit sets the perfect tone for your adventure, equipping you with practical tools such as local SIM cards, curated city maps, and a list of our handpicked recommendations so you can navigate with confidence.",
+      "Whether you are here for a romantic getaway, a family vacation, or a corporate retreat, our kit seamlessly blends luxury with local charm. Start your Moroccan journey in comfort, knowing that every detail has been thoughtfully prepared by our dedicated team."
+    ]
+  },
+  {
+    "id": "operations-team",
+    "title": "Équipe Opérationnelle 24/7",
+    "subtitle": "Toujours là pour vous, peu importe l'heure.",
+    "description": "Notre équipe dévouée travaille 24 heures sur 24 pour gérer l'imprévu et s'assurer que tout soit parfait.",
+    "image": "https://images.unsplash.com/photo-1519594445471-0e5f86b3fb09?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "detailed_content": [
+      "Experience the pinnacle of Moroccan hospitality from the very moment you arrive. Our customizable welcome kit is designed to ensure you feel at home in a new country. It includes essential information, local delicacies, and personalized touches tailored specifically to your preferences.",
+      "We believe that the journey is just as important as the destination. This kit sets the perfect tone for your adventure, equipping you with practical tools such as local SIM cards, curated city maps, and a list of our handpicked recommendations so you can navigate with confidence.",
+      "Whether you are here for a romantic getaway, a family vacation, or a corporate retreat, our kit seamlessly blends luxury with local charm. Start your Moroccan journey in comfort, knowing that every detail has been thoughtfully prepared by our dedicated team."
+    ]
+  },
+  {
+    "id": "curated-experiences",
+    "title": "Expériences Sur Mesure",
+    "subtitle": "Des aventures personnalisées à vos centres d'intérêt.",
+    "description": "Que ce soit des cours de cuisine, des balades en montgolfière ou des randonnées dans l'Atlas, nous l'organisons.",
+    "image": "https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&q=80&w=800",
+    "detailed_content": [
+      "Experience the pinnacle of Moroccan hospitality from the very moment you arrive. Our customizable welcome kit is designed to ensure you feel at home in a new country. It includes essential information, local delicacies, and personalized touches tailored specifically to your preferences.",
+      "We believe that the journey is just as important as the destination. This kit sets the perfect tone for your adventure, equipping you with practical tools such as local SIM cards, curated city maps, and a list of our handpicked recommendations so you can navigate with confidence.",
+      "Whether you are here for a romantic getaway, a family vacation, or a corporate retreat, our kit seamlessly blends luxury with local charm. Start your Moroccan journey in comfort, knowing that every detail has been thoughtfully prepared by our dedicated team."
+    ]
+  },
+  {
+    "id": "airport-assistance",
+    "title": "Assistance Aéroport",
+    "subtitle": "Un passage rapide aux douanes.",
+    "description": "Profitez d'un accueil VIP et d'une assistance dès votre atterrissage pour une arrivée sans stress.",
+    "image": "https://images.unsplash.com/photo-1530521954074-e64f6810b32d?auto=format&fit=crop&q=80&w=800",
+    "detailed_content": [
+      "Experience the pinnacle of Moroccan hospitality from the very moment you arrive. Our customizable welcome kit is designed to ensure you feel at home in a new country. It includes essential information, local delicacies, and personalized touches tailored specifically to your preferences.",
+      "We believe that the journey is just as important as the destination. This kit sets the perfect tone for your adventure, equipping you with practical tools such as local SIM cards, curated city maps, and a list of our handpicked recommendations so you can navigate with confidence.",
+      "Whether you are here for a romantic getaway, a family vacation, or a corporate retreat, our kit seamlessly blends luxury with local charm. Start your Moroccan journey in comfort, knowing that every detail has been thoughtfully prepared by our dedicated team."
+    ]
+  }
+]

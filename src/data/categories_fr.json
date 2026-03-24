@@ -1,0 +1,48 @@
+{
+  "leisure": [
+    {
+      "id": "circuits",
+      "title": "Circuits",
+      "subtitle": "Nous réalisons vos rêves !",
+      "image": "/assets/images/circuit.jpg"
+    },
+    {
+      "id": "concierge",
+      "title": "Conciergerie",
+      "subtitle": "Votre assistant personnel au Maroc.",
+      "image": "/assets/images/cat_leisure_1.jpg"
+    },
+    {
+      "id": "shared-experiences",
+      "title": "Expériences Partagées",
+      "subtitle": "Rejoignez d'autres personnes et explorez ensemble.",
+      "image": "/assets/images/cat_leisure_2.jpg"
+    }
+  ],
+  "incentive": [
+    {
+      "id": "corporate-events",
+      "title": "Événements d'Entreprise",
+      "subtitle": "Des environnements professionnels pour le succès.",
+      "image": "/assets/images/cat_incentive_0.jpg"
+    },
+    {
+      "id": "product-launches",
+      "title": "Lancements de Produits",
+      "subtitle": "Démarquez-vous dans des lieux époustouflants.",
+      "image": "/assets/images/cat_incentive_1.jpg"
+    },
+    {
+      "id": "teambuilding",
+      "title": "Retraites de Teambuilding",
+      "subtitle": "Forgez des liens forts grâce à des aventures marocaines.",
+      "image": "/assets/images/cat_incentive_2.jpg"
+    },
+    {
+      "id": "meetings-incentives",
+      "title": "Réunions & Incentives",
+      "subtitle": "Récompensez votre équipe avec de l'inspiration.",
+      "image": "/assets/images/cat_incentive_3.jpg"
+    }
+  ]
+}
